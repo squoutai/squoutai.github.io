@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://squoutai.github.io/squoutai.txt.gz
+Sitemap: https://squoutai.github.io/app/squoutai.txt.gz
+Sitemap: https://squoutai.github.io/assets/squoutai.txt.gz
+Sitemap: https://squoutai.github.io/css/squoutai.txt.gz
+Sitemap: https://squoutai.github.io/includes/squoutai.txt.gz
+Sitemap: https://squoutai.github.io/item/squoutai.txt.gz
+Sitemap: https://squoutai.github.io/src/squoutai.txt.gz
